@@ -1,3 +1,4 @@
+# 20201218 Sterted working on the modifications for VM100
 # [![Sarek](docs/images/nf-core_sarek_logo.png "Sarek")](https://nf-co.re/sarek)
 
 > **An open-source analysis pipeline to detect germline or somatic variants from whole genome or targeted sequencing**
